@@ -8,3 +8,13 @@ C:\Users\rwmac\Documents\Projetos\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug
 C:\Users\rwmac\Documents\Projetos\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoG.6E5CC1D4.Up2Date
 C:\Users\rwmac\Documents\Projetos\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.exe
 C:\Users\rwmac\Documents\Projetos\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.pdb
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\bin\Debug\ProjetoGEADI.exe.config
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\bin\Debug\ProjetoGEADI.exe
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\bin\Debug\ProjetoGEADI.pdb
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.csproj.AssemblyReference.cache
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.csproj.CoreCompileInputs.cache
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoG.6E5CC1D4.Up2Date
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.exe
+C:\Users\rwmac\Documents\Projetos\PSI GEADI\PSI_Master\ProjetoGEADI\ProjetoGEADI\obj\Debug\ProjetoGEADI.pdb
